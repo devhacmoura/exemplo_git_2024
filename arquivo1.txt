@@ -1,4 +1,6 @@
 class Pessoa {
 
     teste;
+
+    teste2;
 }
